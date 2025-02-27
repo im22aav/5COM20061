@@ -9,40 +9,45 @@
 # editor like Notepad++ instead.
 
 # Write your group name exactly as it appears on Canvas.
-group: 
+group: 'Group14'
 
 # Write the names of your group members as a comma-separated list
 # within the square brackets.
-members: []
+members:
+  - 'Makenthiran Inthuyan'
+  - 'Aneeta Jude Dharmendra'
 
 # Write a short description of your application
-topic: 
-
-# For the following sections, you may write multiple paragraphs, each
-# with multiple lines, under the key. But be sure *every* line is
-# indented at the same level as the first line under the key (see
-# `example.yml` for examples).
-
-# Note that the '>' character means the text spanning multiple lines
-# should be concatenated into a single paragraph.  Paragraphs are
-# separated by blank lines, and *all* lines must be indented.
+topic: 'EasyRide Bicycle Hire Service'
 
 # Write your assessment of the rivalry between existing competitors.
 competitor_rivalry: >
+  With multiple well-established competitors, the bicycle rental market is characterized by a comparatively high level of competition. Smaller local businesses and big rental companies are major rivals.
+  Some businesses set themselves apart with competitive pricing or superior customer service, while others have well-known brands. Although the market is expanding, there is still fierce rivalry for clients.
+  To obtain an advantage, businesses are always coming up with new features, such as electric bikes or app-based rentals.
 
 # Write your assessment of the threat of new entrants.
 new_entrant_threat: >
+  Bicycle rental businesses face a moderate threat from new competitors. Although launching a bicycle rental business doesn't require a large initial investment, there are certain obstacles to overcome, like obtaining desirable locations, building brand awareness, and adhering to legal requirements.
+  But as eco-friendly transportation gains traction, new businesses might enter the market with creative business plans like bike-sharing programs.
 
 # Write your assessment of the threat of substitute products or services.
 substitute_threat: >
+  There is a moderate to high risk of substitute products. Bicycle rentals can be replaced by alternatives like walking, public transportation, or even electric scooters, especially in cities. 
+  On the other hand, people who want a more flexible, affordable, or active form of transportation may find the bicycle rental service appealing.
 
-# Write your assessment of the bargaining power of customers.  
+# Write your assessment of the bargaining power of customers.
 customer_power: >
+  Because there are so many options for renting bikes, customers in the bicycle rental business have a lot of negotiating power.
+  They can quickly move between businesses according to factors like cost, ease of use, or level of service. Customers can now quickly compare services and make decisions thanks to the proliferation of mobile apps, which gives them leverage when negotiating better rates or services.
 
 # Write your assessment of the bargaining power of suppliers.
 supplier_power: >
+  In the bicycle rental sector, suppliers have comparatively little influence. Finding bicycle suppliers and maintenance providers is not too difficult, and suppliers are not very different from one another.
+  However, if a business depends on particular vendors for custom or high-quality bikes (like electric bikes), that might give the supplier some more negotiating leverage. Generally speaking, suppliers don't have much power over bike rental businesses.
 
 # Write your conclusion regarding the appropriate competitive strategy to pursue, based on
 # your assessments above.
 competitive_strategy: >
-
+  We would use differentiation as our competitive strategy. We think that providing a better customer experience with extra features like electric bikes, easy booking and payment integration through apps, and loyalty plans will help us differentiate ourselves from the competition.
+  In addition to drawing in price-conscious clients, we also hope to draw in quality and convenience-conscious ones, which will enable us to charge more and foster customer loyalty.
